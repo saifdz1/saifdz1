@@ -43,7 +43,7 @@ Here are some of the projects I've worked on:
 - **Link**: [https://saifdz1.github.io/alisif/index.html]
 
 ### 2. [Alpha Code Website & Discord Bot]
-- **Description**: A Web Application for Server Discord .
+- **Description**: A Web Application for Server Discord.
 - **Tech Stack**: [HTML, CSS, JavaScript, PHP, MySql ]
 - **Link**: [None]
 
@@ -52,9 +52,9 @@ Here are some of the projects I've worked on:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifdz1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifdz1&layout=compact&theme=radical)
 
 ---
 
@@ -65,4 +65,4 @@ Here are some of the projects I've worked on:
 
 ---
 
-⭐ Feel free to explore my repositories and don't forget to star the ones you like! ⭐
+⭐ Feel free to explore my repositories, and don't forget to star the ones you like! ⭐
